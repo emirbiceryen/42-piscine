@@ -1,0 +1,6 @@
+Credentials cache: API:60BE2EA9-BC6C-4624-9936-C358A7651EB2
+        Principal: ebicerye@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb 13 14:33:53 2022  Feb 14 00:33:53 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Feb 13 14:33:55 2022  Feb 14 00:33:53 2022  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
